@@ -1,7 +1,7 @@
 .embed-container {
     display: flex;
-    justify-content: center-left;
-    align-items: center-left;
+    justify-content: center;
+    align-items: center;
     height: 100vh; /* Optional: center vertically within the viewport */
   }
 
