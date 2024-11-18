@@ -1,0 +1,16 @@
+.embed-container {
+    display: flex;
+    justify-content: center-left;
+    align-items: center-left;
+    height: 100vh; /* Optional: center vertically within the viewport */
+  }
+
+  body {
+    color: black;
+}
+
+img {
+  size: 100px;
+  position: center-right;
+  align-self: center-right;  
+}
